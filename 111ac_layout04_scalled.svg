@@ -1363,8 +1363,11 @@
        id="rect4894"
        width="3240"
        height="2250"
-       x="85127.164"
-       y="-50635.492">
+       x="49085.02"
+       y="87225.992"
+       transform="matrix(0.01795514,-0.99983879,0.99983879,0.01795514,0,0)"
+       inkscape:transform-center-x="700"
+       inkscape:transform-center-y="200">
       <desc
          id="desc4896">Shot Blaster</desc>
     </rect>
@@ -1373,8 +1376,8 @@
        id="rect4898"
        width="3780"
        height="2250"
-       x="28762.951"
-       y="-59435.746">
+       x="29162.951"
+       y="-59335.746">
       <desc
          id="desc4900">Farro Table</desc>
     </rect>
