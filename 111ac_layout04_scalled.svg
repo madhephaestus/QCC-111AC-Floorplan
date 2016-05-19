@@ -41,8 +41,8 @@
      showborder="false"
      inkscape:document-units="in"
      inkscape:zoom="0.014142136"
-     inkscape:cx="35279.536"
-     inkscape:cy="45901.913"
+     inkscape:cx="36001.39"
+     inkscape:cy="40245.059"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -1513,6 +1513,156 @@
        y="-58273.898">
       <desc
          id="desc4980">Podium</desc>
+    </rect>
+    <rect
+       style="fill:#ffccaa;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4982"
+       width="6480"
+       height="2160"
+       x="35143.207"
+       y="-42929.68">
+      <desc
+         id="desc4984">Roll Printer</desc>
+    </rect>
+    <rect
+       style="fill:#adffaa;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4986"
+       width="1080"
+       height="2160"
+       x="40800.062"
+       y="-58839.582">
+      <desc
+         id="desc4988">Trash</desc>
+    </rect>
+    <rect
+       style="fill:#adffaa;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4986-9"
+       width="1080"
+       height="2160"
+       x="41462.141"
+       y="-58222.527">
+      <desc
+         id="desc4988-6">Trash</desc>
+    </rect>
+    <rect
+       style="fill:#adffaa;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5008"
+       width="1350"
+       height="1350"
+       x="43557.777"
+       y="-57920.344">
+      <desc
+         id="desc5010">Trash</desc>
+    </rect>
+    <rect
+       style="fill:#f12054;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5012"
+       width="2880"
+       height="2790"
+       x="46810.473"
+       y="-57991.055">
+      <desc
+         id="desc5014">Pull Tester</desc>
+    </rect>
+    <rect
+       style="fill:#ca0538;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5016"
+       width="8640"
+       height="2520"
+       x="19516.146"
+       y="-28009.727">
+      <desc
+         id="desc5018">Dayton Band Saw</desc>
+    </rect>
+    <rect
+       style="fill:#4705ca;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5020"
+       width="1980"
+       height="1710"
+       x="10253.048"
+       y="-28080.438">
+      <desc
+         id="desc5022">Grinder</desc>
+    </rect>
+    <rect
+       style="fill:#4705ca;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5020-8"
+       width="1980"
+       height="1710"
+       x="10747.973"
+       y="-27450.514">
+      <desc
+         id="desc5022-2">Grinder</desc>
+    </rect>
+    <rect
+       style="fill:#4705ca;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5020-4"
+       width="1980"
+       height="1710"
+       x="11242.947"
+       y="-26531.273">
+      <desc
+         id="desc5022-6">Grinder</desc>
+    </rect>
+    <rect
+       style="fill:#05c5ca;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5058"
+       width="3150"
+       height="1800"
+       x="6081.1182"
+       y="-27939.016">
+      <desc
+         id="desc5060">Jet Floor Drill Press</desc>
+    </rect>
+    <rect
+       style="fill:#05c5ca;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5058-9"
+       width="3150"
+       height="1800"
+       x="6273.8853"
+       y="-27141.959">
+      <desc
+         id="desc5060-2">Jet Floor Drill Press</desc>
+    </rect>
+    <rect
+       style="fill:#040e0f;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5080"
+       width="2430"
+       height="1710"
+       x="22061.732"
+       y="-22352.873">
+      <desc
+         id="desc5082">Black Waterloo Tool Chest</desc>
+    </rect>
+    <rect
+       style="fill:#c7d1d2;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5084"
+       width="2340"
+       height="5580"
+       x="38537.316"
+       y="-49788.617">
+      <desc
+         id="desc5086">Laptop Caddy</desc>
+    </rect>
+    <rect
+       style="fill:#26e8fb;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5088"
+       width="3870"
+       height="2700"
+       x="31536.963"
+       y="-34161.555">
+      <desc
+         id="desc5090">TV</desc>
+    </rect>
+    <rect
+       style="fill:#3efb26;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5092"
+       width="1710"
+       height="2790"
+       x="32173.359"
+       y="-27090.488">
+      <desc
+         id="desc5094">Collet Cart</desc>
     </rect>
   </g>
   <g
