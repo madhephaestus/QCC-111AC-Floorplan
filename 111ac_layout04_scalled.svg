@@ -40,9 +40,9 @@
      showgrid="false"
      showborder="false"
      inkscape:document-units="in"
-     inkscape:zoom="0.014142136"
-     inkscape:cx="50370.863"
-     inkscape:cy="48730.34"
+     inkscape:zoom="0.01"
+     inkscape:cx="47481.518"
+     inkscape:cy="34475.473"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -1727,6 +1727,16 @@
        height="2340"
        x="64417.434"
        y="-38262.777" />
+    <rect
+       style="fill:#e72ed1;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5144"
+       width="4860"
+       height="4050"
+       x="21600"
+       y="-33647.637">
+      <desc
+         id="desc5146">Surface Grinder</desc>
+    </rect>
   </g>
   <g
      inkscape:groupmode="layer"
