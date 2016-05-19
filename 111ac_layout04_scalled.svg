@@ -1474,6 +1474,46 @@
       <desc
          id="desc4950">Vac System</desc>
     </rect>
+    <rect
+       style="fill:#ff0011;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4952"
+       width="2700"
+       height="1620"
+       x="27506.451"
+       y="-58698.164">
+      <desc
+         id="desc4954">Red Waterloo Tool Box</desc>
+    </rect>
+    <rect
+       style="fill:#9c9c9c;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4956"
+       width="6480"
+       height="3240"
+       x="39880.824"
+       y="-53889.836">
+      <desc
+         id="desc4958">WorkBenches with Tops</desc>
+    </rect>
+    <rect
+       style="fill:#9c9c9c;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4956-9"
+       width="6480"
+       height="3240"
+       x="39044.984"
+       y="-54590.598">
+      <desc
+         id="desc4958-6">WorkBenches with Tops</desc>
+    </rect>
+    <rect
+       style="fill:#786721;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4978"
+       width="3060"
+       height="2700"
+       x="12445.079"
+       y="-58273.898">
+      <desc
+         id="desc4980">Podium</desc>
+    </rect>
   </g>
   <g
      inkscape:groupmode="layer"
