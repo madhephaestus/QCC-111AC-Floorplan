@@ -41,8 +41,8 @@
      showborder="false"
      inkscape:document-units="in"
      inkscape:zoom="0.01"
-     inkscape:cx="47481.518"
-     inkscape:cy="34475.473"
+     inkscape:cx="43405.906"
+     inkscape:cy="40596.77"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -100,15 +100,7 @@
      id="g20">
     <path
        inkscape:connector-curvature="0"
-       d="m 6751.8497,-56988.305 4293.8723,0 0,4293.871 -4293.8723,0 0,-4293.871"
-       style="fill:#beac00;stroke:#000000;stroke-width:25.39997864;fill-opacity:1"
-       id="path648">
-      <desc
-         id="desc4720">Shop Bot</desc>
-    </path>
-    <path
-       inkscape:connector-curvature="0"
-       d="m 6281.924,-45436.189 3584.5792,0 0,-4844.579 -3584.5792,0 0,4844.579"
+       d="m 5981.924,-10336.189 3584.5792,0 0,-4844.579 -3584.5792,0 0,4844.579"
        style="fill:#939191;fill-opacity:1;stroke:#000000;stroke-width:15.42080688"
        id="path650">
       <desc
@@ -1207,8 +1199,8 @@
        id="rect4722"
        width="5400"
        height="2700"
-       x="16475.588"
-       y="-49753.262">
+       x="16263.455"
+       y="-38086">
       <desc
          id="desc4724">Pods</desc>
     </rect>
@@ -1217,8 +1209,8 @@
        id="rect4722-16"
        width="5400"
        height="2700"
-       x="17063.635"
-       y="-49335.496">
+       x="36933.336"
+       y="-38092.5">
       <desc
          id="desc4724-6">Pods</desc>
     </rect>
@@ -1227,8 +1219,8 @@
        id="rect4722-45"
        width="5400"
        height="2700"
-       x="17629.32"
-       y="-48805.164">
+       x="10628.964"
+       y="-38127.852">
       <desc
          id="desc4724-4">Pods</desc>
     </rect>
@@ -1237,8 +1229,8 @@
        id="rect4722-7"
        width="5400"
        height="2700"
-       x="19503.152"
-       y="-47532.371">
+       x="64757.988"
+       y="-59482.477">
       <desc
          id="desc4724-5">Pods</desc>
     </rect>
@@ -1247,8 +1239,8 @@
        id="rect4722-5"
        width="5400"
        height="2700"
-       x="18619.27"
-       y="-48133.41">
+       x="70379.492"
+       y="-59517.828">
       <desc
          id="desc4724-8">Pods</desc>
     </rect>
@@ -1257,8 +1249,8 @@
        id="rect4786"
        width="1890"
        height="630"
-       x="10394.47"
-       y="-43283.234">
+       x="8396.6396"
+       y="-36152.871">
       <desc
          id="desc4788">CNC Simulators</desc>
     </rect>
@@ -1267,8 +1259,8 @@
        id="rect4786-9"
        width="1890"
        height="630"
-       x="12171.832"
-       y="-42113.312">
+       x="8547.6533"
+       y="-37033.559">
       <desc
          id="desc4788-7">CNC Simulators</desc>
     </rect>
@@ -1277,8 +1269,8 @@
        id="rect4786-1"
        width="1890"
        height="630"
-       x="11747.567"
-       y="-42396.152">
+       x="11022.529"
+       y="-36397.16">
       <desc
          id="desc4788-5">CNC Simulators</desc>
     </rect>
@@ -1287,8 +1279,8 @@
        id="rect4786-0"
        width="1890"
        height="630"
-       x="11394.015"
-       y="-42678.996">
+       x="13638.823"
+       y="-36467.871">
       <desc
          id="desc4788-2">CNC Simulators</desc>
     </rect>
@@ -1297,8 +1289,8 @@
        id="rect4786-7"
        width="1890"
        height="630"
-       x="11075.816"
-       y="-42855.773">
+       x="16785.447"
+       y="-36291.098">
       <desc
          id="desc4788-8">CNC Simulators</desc>
     </rect>
@@ -1307,8 +1299,8 @@
        id="rect4786-5"
        width="1890"
        height="630"
-       x="10686.907"
-       y="-43067.906">
+       x="19507.811"
+       y="-36291.098">
       <desc
          id="desc4788-87">CNC Simulators</desc>
     </rect>
@@ -1317,8 +1309,8 @@
        id="rect4840"
        width="4860"
        height="2970"
-       x="15839.192"
-       y="-44025.695">
+       x="44194.07"
+       y="-59473.359">
       <desc
          id="desc4842">Hexagon CMM</desc>
     </rect>
@@ -1327,41 +1319,19 @@
        id="rect6521"
        width="10800"
        height="2700"
-       x="-58797.621"
-       y="-61747.418"
+       x="-54808.195"
+       y="-20405.971"
        transform="matrix(0.00717114,0.99997429,-0.99997429,0.00717114,0,0)">
       <desc
          id="desc4718">Long Table</desc>
     </rect>
     <rect
        style="fill:#20b11d;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6521-0"
-       width="10800"
-       height="2700"
-       x="-55323.43"
-       y="-59279.043"
-       transform="matrix(0.00717114,0.99997429,-0.99997429,0.00717114,0,0)">
-      <desc
-         id="desc4718-0">Long Table</desc>
-    </rect>
-    <rect
-       style="fill:#20b11d;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect6521-5"
-       width="10800"
-       height="2700"
-       x="-56242.668"
-       y="-59703.305"
-       transform="matrix(0.00717114,0.99997429,-0.99997429,0.00717114,0,0)">
-      <desc
-         id="desc4718-8">Long Table</desc>
-    </rect>
-    <rect
-       style="fill:#20b11d;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6521-6"
        width="10800"
        height="2700"
-       x="-57091.195"
-       y="-60233.637"
+       x="-54878.59"
+       y="-11570.071"
        transform="matrix(0.00717114,0.99997429,-0.99997429,0.00717114,0,0)">
       <desc
          id="desc4718-2">Long Table</desc>
@@ -1371,8 +1341,8 @@
        id="rect6521-2"
        width="10800"
        height="2700"
-       x="-57656.883"
-       y="-60693.254"
+       x="-54932.07"
+       y="-14430.24"
        transform="matrix(0.00717114,0.99997429,-0.99997429,0.00717114,0,0)">
       <desc
          id="desc4718-3">Long Table</desc>
@@ -1382,8 +1352,8 @@
        id="rect6521-7"
        width="10800"
        height="2700"
-       x="-58293.277"
-       y="-61188.23"
+       x="-54801.039"
+       y="-23334.502"
        transform="matrix(0.00717114,0.99997429,-0.99997429,0.00717114,0,0)">
       <desc
          id="desc4718-6">Long Table</desc>
@@ -1393,8 +1363,8 @@
        id="rect4894"
        width="3240"
        height="2250"
-       x="27577.164"
-       y="-47985.492">
+       x="32927.164"
+       y="-34635.492">
       <desc
          id="desc4896">Shot Blaster</desc>
     </rect>
@@ -1403,8 +1373,8 @@
        id="rect4898"
        width="3780"
        height="2250"
-       x="25526.555"
-       y="-42257.93">
+       x="28762.951"
+       y="-59435.746">
       <desc
          id="desc4900">Farro Table</desc>
     </rect>
@@ -1413,8 +1383,8 @@
        id="rect4902"
        width="3240"
        height="2160"
-       x="20000"
-       y="-39447.637">
+       x="40595.332"
+       y="-59498.855">
       <desc
          id="desc4904">Sarrett Granate</desc>
     </rect>
@@ -1423,80 +1393,48 @@
        id="rect4906"
        width="3150"
        height="2340"
-       x="27300"
-       y="-45247.637">
+       x="33232.844"
+       y="-59349.719">
       <desc
          id="desc4908">Microscope</desc>
-    </rect>
-    <rect
-       style="fill:#f09849;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4910"
-       width="2610"
-       height="2610"
-       x="32951.176"
-       y="-56859.684">
-      <desc
-         id="desc4912">Tool Chest</desc>
-    </rect>
-    <rect
-       style="fill:#f09849;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4910-1"
-       width="2610"
-       height="2610"
-       x="33626.074"
-       y="-55972.652">
-      <desc
-         id="desc4912-6">Tool Chest</desc>
-    </rect>
-    <rect
-       style="fill:#f09849;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4910-5"
-       width="2610"
-       height="2610"
-       x="34898.867"
-       y="-54204.887">
-      <desc
-         id="desc4912-9">Tool Chest</desc>
     </rect>
     <rect
        style="fill:#f09849;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4910-7"
        width="2610"
        height="2610"
-       x="34262.473"
-       y="-54841.281"
+       x="23412.473"
+       y="-17691.281"
        inkscape:transform-center-x="1060.6602"
        inkscape:transform-center-y="-777.81746">
       <desc
          id="desc4912-0">Tool Chest</desc>
     </rect>
+    <path
+       inkscape:connector-curvature="0"
+       d="m 84083.221,-57941.858 4293.872,0 0,4293.871 -4293.872,0 0,-4293.871"
+       style="fill:#beac00;fill-opacity:1;stroke:#000000;stroke-width:25.39997864"
+       id="path648">
+      <desc
+         id="desc4720">Shop Bot</desc>
+    </path>
     <rect
        style="fill:#f04954;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4948"
        width="2970"
        height="1980"
-       x="33870.414"
-       y="-47172.32">
+       x="77472.141"
+       y="-58953.438">
       <desc
          id="desc4950">Vac System</desc>
-    </rect>
-    <rect
-       style="fill:#ff0011;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect4952"
-       width="2700"
-       height="1620"
-       x="27506.451"
-       y="-58698.164">
-      <desc
-         id="desc4954">Red Waterloo Tool Box</desc>
     </rect>
     <rect
        style="fill:#9c9c9c;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect4956"
        width="6480"
        height="3240"
-       x="39880.824"
-       y="-53889.836">
+       x="58053.469"
+       y="-59475.98">
       <desc
          id="desc4958">WorkBenches with Tops</desc>
     </rect>
@@ -1505,8 +1443,8 @@
        id="rect4956-9"
        width="6480"
        height="3240"
-       x="39044.984"
-       y="-54590.598">
+       x="51148.645"
+       y="-59498.922">
       <desc
          id="desc4958-6">WorkBenches with Tops</desc>
     </rect>
@@ -1515,8 +1453,8 @@
        id="rect4978"
        width="3060"
        height="2700"
-       x="12445.079"
-       y="-58273.898">
+       x="11745.079"
+       y="-59173.898">
       <desc
          id="desc4980">Podium</desc>
     </rect>
@@ -1525,8 +1463,8 @@
        id="rect4982"
        width="6480"
        height="2160"
-       x="35143.207"
-       y="-42929.68">
+       x="5043.207"
+       y="-59129.68">
       <desc
          id="desc4984">Roll Printer</desc>
     </rect>
@@ -1535,8 +1473,8 @@
        id="rect4986"
        width="1080"
        height="2160"
-       x="40800.062"
-       y="-58839.582">
+       x="70781.391"
+       y="-43919.629">
       <desc
          id="desc4988">Trash</desc>
     </rect>
@@ -1545,8 +1483,8 @@
        id="rect4986-9"
        width="1080"
        height="2160"
-       x="41462.141"
-       y="-58222.527">
+       x="69251.438"
+       y="-43938.969">
       <desc
          id="desc4988-6">Trash</desc>
     </rect>
@@ -1555,8 +1493,8 @@
        id="rect5008"
        width="1350"
        height="1350"
-       x="43557.777"
-       y="-57920.344">
+       x="72195.602"
+       y="-43141.812">
       <desc
          id="desc5010">Trash</desc>
     </rect>
@@ -1565,8 +1503,8 @@
        id="rect5012"
        width="2880"
        height="2790"
-       x="46810.473"
-       y="-57991.055">
+       x="37214.027"
+       y="-59389.582">
       <desc
          id="desc5014">Pull Tester</desc>
     </rect>
@@ -1585,8 +1523,8 @@
        id="rect5020"
        width="1980"
        height="1710"
-       x="10253.048"
-       y="-28080.438">
+       x="7884.2402"
+       y="-28893.609">
       <desc
          id="desc5022">Grinder</desc>
     </rect>
@@ -1595,8 +1533,8 @@
        id="rect5020-8"
        width="1980"
        height="1710"
-       x="10747.973"
-       y="-27450.514">
+       x="10960.104"
+       y="-28935.438">
       <desc
          id="desc5022-2">Grinder</desc>
     </rect>
@@ -1605,8 +1543,8 @@
        id="rect5020-4"
        width="1980"
        height="1710"
-       x="11242.947"
-       y="-26531.273">
+       x="12798.582"
+       y="-24551.375">
       <desc
          id="desc5022-6">Grinder</desc>
     </rect>
@@ -1615,8 +1553,11 @@
        id="rect5058"
        width="3150"
        height="1800"
-       x="6081.1182"
-       y="-27939.016">
+       x="-29275.266"
+       y="-6886.6187"
+       transform="matrix(-0.00411246,0.99999154,-0.99999154,-0.00411246,0,0)"
+       inkscape:transform-center-x="-565.68543"
+       inkscape:transform-center-y="530.33009">
       <desc
          id="desc5060">Jet Floor Drill Press</desc>
     </rect>
@@ -1625,28 +1566,19 @@
        id="rect5058-9"
        width="3150"
        height="1800"
-       x="6273.8853"
-       y="-27141.959">
+       x="43873.887"
+       y="-23241.959">
       <desc
          id="desc5060-2">Jet Floor Drill Press</desc>
-    </rect>
-    <rect
-       style="fill:#040e0f;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       id="rect5080"
-       width="2430"
-       height="1710"
-       x="22061.732"
-       y="-22352.873">
-      <desc
-         id="desc5082">Black Waterloo Tool Chest</desc>
     </rect>
     <rect
        style="fill:#c7d1d2;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5084"
        width="2340"
        height="5580"
-       x="38537.316"
-       y="-49788.617">
+       x="32150.359"
+       y="48421.66"
+       transform="matrix(0.0049079,-0.99998796,0.99998796,0.0049079,0,0)">
       <desc
          id="desc5086">Laptop Caddy</desc>
     </rect>
@@ -1655,18 +1587,73 @@
        id="rect5088"
        width="3870"
        height="2700"
-       x="31536.963"
-       y="-34161.555">
+       x="-13600.547"
+       y="17917.275"
+       transform="matrix(-0.99999811,0.00194171,-0.00194171,-0.99999811,0,0)">
       <desc
          id="desc5090">TV</desc>
+    </rect>
+    <rect
+       style="fill:#f09849;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4910"
+       width="2610"
+       height="2610"
+       x="35006.199"
+       y="-49082.832">
+      <desc
+         id="desc4912">Tool Chest</desc>
+    </rect>
+    <rect
+       style="fill:#f09849;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4910-1"
+       width="2610"
+       height="2610"
+       x="34973.992"
+       y="-46498.746">
+      <desc
+         id="desc4912-6">Tool Chest</desc>
+    </rect>
+    <rect
+       style="fill:#f09849;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4910-5"
+       width="2610"
+       height="2610"
+       x="34973.992"
+       y="-51802.047">
+      <desc
+         id="desc4912-9">Tool Chest</desc>
+    </rect>
+    <rect
+       style="fill:#ff0011;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4952"
+       width="2700"
+       height="1620"
+       x="50136.484"
+       y="31898.334"
+       transform="matrix(0.02598932,-0.99966222,0.99966222,0.02598932,0,0)">
+      <desc
+         id="desc4954">Red Waterloo Tool Box</desc>
+    </rect>
+    <rect
+       style="fill:#040e0f;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5080"
+       width="2430"
+       height="1710"
+       x="-45623.703"
+       y="-35751.625"
+       transform="matrix(0.02251538,0.9997465,-0.9997465,0.02251538,0,0)"
+       inkscape:transform-center-x="707.10678"
+       inkscape:transform-center-y="494.97475">
+      <desc
+         id="desc5082">Black Waterloo Tool Chest</desc>
     </rect>
     <rect
        style="fill:#3efb26;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5092"
        width="1710"
        height="2790"
-       x="32173.359"
-       y="-27090.488">
+       x="33078.887"
+       y="-49263.637">
       <desc
          id="desc5094">Collet Cart</desc>
     </rect>
@@ -1736,6 +1723,23 @@
        y="-33647.637">
       <desc
          id="desc5146">Surface Grinder</desc>
+    </rect>
+    <rect
+       style="fill:#e4e72e;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5194"
+       width="4320"
+       height="900"
+       x="8410.7412"
+       y="-60260.809" />
+    <rect
+       style="fill:#e4e72e;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5270"
+       width="4680"
+       height="1440"
+       x="64205.297"
+       y="-43283.234">
+      <desc
+         id="desc5272">Parts Drawers</desc>
     </rect>
   </g>
   <g
@@ -3287,5 +3291,15 @@
        d="m 47985.295,-23579.759 15987.354,0 0,649.866 -15987.354,0 0,-649.866 0,0 z"
        style="fill:none;stroke:#000000;stroke-width:25.39997864"
        id="path1054" />
+    <rect
+       style="fill:#e4e72e;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5196"
+       width="10800"
+       height="900"
+       x="12842.462"
+       y="-60255.785">
+      <desc
+         id="desc5198">Whiteboard</desc>
+    </rect>
   </g>
 </svg>
