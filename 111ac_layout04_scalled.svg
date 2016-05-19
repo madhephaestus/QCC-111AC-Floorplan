@@ -41,8 +41,8 @@
      showborder="false"
      inkscape:document-units="in"
      inkscape:zoom="0.014142136"
-     inkscape:cx="36001.39"
-     inkscape:cy="40245.059"
+     inkscape:cx="50370.863"
+     inkscape:cy="48730.34"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -1155,17 +1155,7 @@
            height="4772.9707"
            x="14566.399"
            y="-56046.512" /></flowRegion><flowPara
-         id="flowPara6519" /></flowRoot>    <rect
-       style="fill:#20b11d;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;fill-opacity:1"
-       id="rect6521"
-       width="10800"
-       height="2700"
-       x="17500.893"
-       y="-55445.469">
-      <desc
-         id="desc4718">Long Table</desc>
-    </rect>
-    <flowRoot
+         id="flowPara6519" /></flowRoot>    <flowRoot
        xml:space="preserve"
        id="flowRoot6523"
        style="fill:black;stroke:#000000;stroke-opacity:1;stroke-width:45;stroke-linejoin:miter;stroke-linecap:butt;fill-opacity:1;font-family:sans-serif;font-style:normal;font-weight:normal;font-size:40px;line-height:125%;letter-spacing:0px;word-spacing:0px;stroke-miterlimit:4;stroke-dasharray:none"><flowRegion
@@ -1334,11 +1324,23 @@
     </rect>
     <rect
        style="fill:#20b11d;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect6521"
+       width="10800"
+       height="2700"
+       x="-58797.621"
+       y="-61747.418"
+       transform="matrix(0.00717114,0.99997429,-0.99997429,0.00717114,0,0)">
+      <desc
+         id="desc4718">Long Table</desc>
+    </rect>
+    <rect
+       style="fill:#20b11d;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect6521-0"
        width="10800"
        height="2700"
-       x="20975.084"
-       y="-52977.094">
+       x="-55323.43"
+       y="-59279.043"
+       transform="matrix(0.00717114,0.99997429,-0.99997429,0.00717114,0,0)">
       <desc
          id="desc4718-0">Long Table</desc>
     </rect>
@@ -1347,8 +1349,9 @@
        id="rect6521-5"
        width="10800"
        height="2700"
-       x="20055.844"
-       y="-53401.355">
+       x="-56242.668"
+       y="-59703.305"
+       transform="matrix(0.00717114,0.99997429,-0.99997429,0.00717114,0,0)">
       <desc
          id="desc4718-8">Long Table</desc>
     </rect>
@@ -1357,8 +1360,9 @@
        id="rect6521-6"
        width="10800"
        height="2700"
-       x="19207.316"
-       y="-53931.688">
+       x="-57091.195"
+       y="-60233.637"
+       transform="matrix(0.00717114,0.99997429,-0.99997429,0.00717114,0,0)">
       <desc
          id="desc4718-2">Long Table</desc>
     </rect>
@@ -1367,8 +1371,9 @@
        id="rect6521-2"
        width="10800"
        height="2700"
-       x="18641.631"
-       y="-54391.305">
+       x="-57656.883"
+       y="-60693.254"
+       transform="matrix(0.00717114,0.99997429,-0.99997429,0.00717114,0,0)">
       <desc
          id="desc4718-3">Long Table</desc>
     </rect>
@@ -1377,8 +1382,9 @@
        id="rect6521-7"
        width="10800"
        height="2700"
-       x="18005.234"
-       y="-54886.281">
+       x="-58293.277"
+       y="-61188.23"
+       transform="matrix(0.00717114,0.99997429,-0.99997429,0.00717114,0,0)">
       <desc
          id="desc4718-6">Long Table</desc>
     </rect>
@@ -1664,6 +1670,63 @@
       <desc
          id="desc5094">Collet Cart</desc>
     </rect>
+    <rect
+       style="fill:#fbcd26;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5096"
+       width="3330"
+       height="1710"
+       x="32668.334"
+       y="-11180.585">
+      <desc
+         id="desc5098">Birmangham Band saw</desc>
+    </rect>
+    <rect
+       style="fill:#ffeeaa;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5126"
+       width="1620"
+       height="3240"
+       x="62225.398"
+       y="-38757.75">
+      <desc
+         id="desc5128">Metal Cabnet With Doors</desc>
+    </rect>
+    <rect
+       style="fill:#e9ddaf;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5130"
+       width="1440"
+       height="3240"
+       x="62366.816"
+       y="-42222.574">
+      <desc
+         id="desc5132">White Metal Shelf</desc>
+    </rect>
+    <rect
+       style="fill:#2ee0e7;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5134"
+       width="3600"
+       height="2610"
+       x="50275.293"
+       y="-29494.65">
+      <desc
+         id="desc5136">Kalamazoo</desc>
+    </rect>
+    <rect
+       style="fill:#e72ed1;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5138"
+       width="11520"
+       height="2340"
+       x="70286.414"
+       y="-37838.512">
+      <desc
+         id="desc5140">Shelving</desc>
+    </rect>
+    <rect
+       style="fill:#e72ed1;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect5142"
+       width="5850"
+       height="2340"
+       x="64417.434"
+       y="-38262.777" />
   </g>
   <g
      inkscape:groupmode="layer"
