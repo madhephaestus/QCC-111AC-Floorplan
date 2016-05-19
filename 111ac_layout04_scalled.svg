@@ -40,9 +40,9 @@
      showgrid="false"
      showborder="false"
      inkscape:document-units="in"
-     inkscape:zoom="0.01"
-     inkscape:cx="31416.547"
-     inkscape:cy="31577.432"
+     inkscape:zoom="0.014142136"
+     inkscape:cx="35279.536"
+     inkscape:cy="45901.913"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
@@ -108,8 +108,8 @@
     </path>
     <path
        inkscape:connector-curvature="0"
-       d="m 6287.5086,-44380.519 6709.1764,0 0,-7022.27 -6709.1764,0 0,7022.27"
-       style="fill:#939191;stroke:#000000;stroke-width:25.39997864;fill-opacity:1"
+       d="m 6281.924,-45436.189 3584.5792,0 0,-4844.579 -3584.5792,0 0,4844.579"
+       style="fill:#939191;fill-opacity:1;stroke:#000000;stroke-width:15.42080688"
        id="path650">
       <desc
          id="desc4726">Laser Cutter</desc>
@@ -1401,6 +1401,78 @@
        y="-42257.93">
       <desc
          id="desc4900">Farro Table</desc>
+    </rect>
+    <rect
+       style="fill:#0df5ff;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4902"
+       width="3240"
+       height="2160"
+       x="20000"
+       y="-39447.637">
+      <desc
+         id="desc4904">Sarrett Granate</desc>
+    </rect>
+    <rect
+       style="fill:#ac0099;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4906"
+       width="3150"
+       height="2340"
+       x="27300"
+       y="-45247.637">
+      <desc
+         id="desc4908">Microscope</desc>
+    </rect>
+    <rect
+       style="fill:#f09849;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4910"
+       width="2610"
+       height="2610"
+       x="32951.176"
+       y="-56859.684">
+      <desc
+         id="desc4912">Tool Chest</desc>
+    </rect>
+    <rect
+       style="fill:#f09849;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4910-1"
+       width="2610"
+       height="2610"
+       x="33626.074"
+       y="-55972.652">
+      <desc
+         id="desc4912-6">Tool Chest</desc>
+    </rect>
+    <rect
+       style="fill:#f09849;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4910-5"
+       width="2610"
+       height="2610"
+       x="34898.867"
+       y="-54204.887">
+      <desc
+         id="desc4912-9">Tool Chest</desc>
+    </rect>
+    <rect
+       style="fill:#f09849;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4910-7"
+       width="2610"
+       height="2610"
+       x="34262.473"
+       y="-54841.281"
+       inkscape:transform-center-x="1060.6602"
+       inkscape:transform-center-y="-777.81746">
+      <desc
+         id="desc4912-0">Tool Chest</desc>
+    </rect>
+    <rect
+       style="fill:#f04954;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect4948"
+       width="2970"
+       height="1980"
+       x="33870.414"
+       y="-47172.32">
+      <desc
+         id="desc4950">Vac System</desc>
     </rect>
   </g>
   <g
