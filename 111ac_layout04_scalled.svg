@@ -1320,8 +1320,8 @@
        id="rect6521"
        width="10800"
        height="2700"
-       x="-54808.195"
-       y="-20405.971"
+       x="-54583.82"
+       y="-23804.449"
        transform="matrix(0.00717114,0.99997429,-0.99997429,0.00717114,0,0)">
       <desc
          id="desc4718">Long Table</desc>
@@ -1353,8 +1353,8 @@
        id="rect6521-7"
        width="10800"
        height="2700"
-       x="-54801.039"
-       y="-23334.502"
+       x="-54675.941"
+       y="-26833.695"
        transform="matrix(0.00717114,0.99997429,-0.99997429,0.00717114,0,0)">
       <desc
          id="desc4718-6">Long Table</desc>
@@ -1749,19 +1749,37 @@
          id="desc5272">Parts Drawers</desc>
     </rect>
     <g
-       id="g4814"
+       id="g4822"
        style="stroke-width:5400;stroke-miterlimit:4;stroke-dasharray:none">
+      <title
+         id="title4829">Walkway</title>
+      <g
+         style="stroke-width:5400;stroke-miterlimit:4;stroke-dasharray:none"
+         id="g4814">
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#0df715;stroke-width:5400;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 90392.511,-44301.431 -11090.485,-29.289 -1226.346,-2588.226 -17282.695,64.645 -1396.015,-5515.254 -16864.497,70.71 141.421,10924.8 -11472.287,235.356 -17.157,18388.76 -20410.26,-56.497 -3641.9416,2574.874 -1455.5068,-30.936 -1007.6271,-4.419"
+           id="path4810"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccc" />
+        <path
+           style="fill:none;fill-rule:evenodd;stroke:#0df715;stroke-width:5400;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+           d="m 4500,-38247.638 2600,0 2100,-2900 20900,-100 -100,-12600 12700,100 700,3800"
+           id="path4812"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccc" />
+      </g>
       <path
-         sodipodi:nodetypes="ccccccccccccc"
+         sodipodi:nodetypes="cccc"
          inkscape:connector-curvature="0"
-         id="path4810"
-         d="m 90392.511,-44301.431 -11090.485,-29.289 -1626.346,-5988.226 -17182.695,-35.355 -1096.015,-2015.254 -16864.497,70.71 141.421,10924.8 -11472.287,235.356 -17.157,18388.76 -20410.26,-56.497 -3641.9416,2574.874 -1455.5068,-30.936 -1007.6271,-4.419"
+         id="path4818"
+         d="m 82800,-45647.638 -1600,-8300 -14800,0 -4500,4200"
          style="fill:none;fill-rule:evenodd;stroke:#0df715;stroke-width:5400;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
-         sodipodi:nodetypes="ccccccc"
+         sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
-         id="path4812"
-         d="m 4500,-38247.638 2600,0 2100,-2900 20900,-100 -100,-12600 12700,100 700,3800"
+         id="path4820"
+         d="m 17700,-39747.638 0,-18800"
          style="fill:none;fill-rule:evenodd;stroke:#0df715;stroke-width:5400;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
   </g>
