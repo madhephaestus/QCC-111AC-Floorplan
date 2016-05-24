@@ -41,13 +41,14 @@
      showborder="false"
      inkscape:document-units="in"
      inkscape:zoom="0.01"
-     inkscape:cx="43405.906"
-     inkscape:cy="32596.77"
+     inkscape:cx="41951.128"
+     inkscape:cy="32600.838"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="g20"
-     showguides="true" />
+     showguides="true"
+     inkscape:snap-grids="false" />
   <desc
      id="desc4">/home/hephaestus/git/QCC-111AC-Floorplan/111ac_layout04_scalled.dxf - scale = 1.000000, origin = (0.000000, 0.000000), auto = False</desc>
   <defs
@@ -1590,8 +1591,8 @@
        id="rect5088"
        width="3870"
        height="2700"
-       x="-13600.547"
-       y="17917.275"
+       x="-48135.434"
+       y="35850.254"
        transform="matrix(-0.99999811,0.00194171,-0.00194171,-0.99999811,0,0)">
       <desc
          id="desc5090">TV</desc>
@@ -1716,7 +1717,10 @@
        width="5850"
        height="2340"
        x="64417.434"
-       y="-38262.777" />
+       y="-38262.777">
+      <desc
+         id="desc4808">Shelving</desc>
+    </rect>
     <rect
        style="fill:#e72ed1;fill-opacity:1;stroke:#000000;stroke-width:90;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        id="rect5144"
@@ -1744,6 +1748,22 @@
       <desc
          id="desc5272">Parts Drawers</desc>
     </rect>
+    <g
+       id="g4814"
+       style="stroke-width:5400;stroke-miterlimit:4;stroke-dasharray:none">
+      <path
+         sodipodi:nodetypes="ccccccccccccc"
+         inkscape:connector-curvature="0"
+         id="path4810"
+         d="m 90392.511,-44301.431 -11090.485,-29.289 -1626.346,-5988.226 -17182.695,-35.355 -1096.015,-2015.254 -16864.497,70.71 141.421,10924.8 -11472.287,235.356 -17.157,18388.76 -20410.26,-56.497 -3641.9416,2574.874 -1455.5068,-30.936 -1007.6271,-4.419"
+         style="fill:none;fill-rule:evenodd;stroke:#0df715;stroke-width:5400;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path4812"
+         d="m 4500,-38247.638 2600,0 2100,-2900 20900,-100 -100,-12600 12700,100 700,3800"
+         style="fill:none;fill-rule:evenodd;stroke:#0df715;stroke-width:5400;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
   </g>
   <g
      inkscape:groupmode="layer"
